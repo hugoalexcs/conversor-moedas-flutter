@@ -6,7 +6,7 @@ import 'dart:async';
 import 'dart:convert';
 
 const baseUrlApi =
-    "https://api.hgbrasil.com/finance?format=json&key=a41ec741&symbol=bidi4";
+    "https://api.hgbrasil.com/finance?format=json&key=YOUR_KEY&symbol=bidi4";
 
 void main() async {
   runApp(MaterialApp(
